@@ -1,4 +1,4 @@
-package mdbrown7079_github.test;
+package mdbrown7079_github.term3;
 
 /**
  * Hello world!

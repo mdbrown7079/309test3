@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mdbrown7079-github</groupId>
-  <artifactId>term</artifactId>
+  <artifactId>term3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>term</name>
+  <name>term3</name>
   <url>http://maven.apache.org</url>
 
   <properties>
