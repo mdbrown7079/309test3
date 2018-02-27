@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mdbrown7079-github</groupId>
-  <artifactId>term3</artifactId>
+  <artifactId>sonarterm</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>term3</name>
+  <name>sonarterm</name>
   <url>http://maven.apache.org</url>
 
   <properties>
